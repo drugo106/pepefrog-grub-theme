@@ -1,1 +1,5 @@
-# pepefrog-grub-theme
+# Installation
+
+```console
+sudo ./install.sh
+```
